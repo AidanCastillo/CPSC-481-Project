@@ -1,3 +1,5 @@
+##FILE IS UNIMPORTANT NO LONGER USED
+
 import random
 
 cards = []
